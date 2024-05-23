@@ -16,7 +16,6 @@
     - [User Endpoints](#user-endpoints)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
