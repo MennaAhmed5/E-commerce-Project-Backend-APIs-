@@ -93,7 +93,7 @@ This project is an e-commerce application that allows users to manage their shop
 - `DELETE /api/cart/{itemId}`: Remove an item from the cart
 
 #### Order Endpoints
-- `GET /api/orders`: Retrieve user of orders
+- `GET /api/orders`: Retrieve user orders
 - `POST /api/orders`: Place an order
 
 #### User Endpoints
